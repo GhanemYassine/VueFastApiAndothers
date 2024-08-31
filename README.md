@@ -1,1 +1,2 @@
 "# VueFastApiAndothers" 
+Rehearsing nostalgic stack
